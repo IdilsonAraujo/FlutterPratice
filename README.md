@@ -24,8 +24,3 @@ Diariamente trabalhar nos tópicos seguintes:
     - 3 - [https://resocoder.com/flutter-clean-architecture-tdd/](https://resocoder.com/flutter-clean-architecture-tdd/)
     - 4 - [https://blog.gskinner.com/archives/2020/02/flutter-widgetview-a-simple-separation-of-layout-and-logic.html](https://blog.gskinner.com/archives/2020/02/flutter-widgetview-a-simple-separation-of-layout-and-logic.html)
 
-**Output Esperado** 
-
-- Refatoracao projecto Gofinance &
-- Refactoracao projecto TryOn &
-- Refatoracao/Construcao projecto TryOn Pay
