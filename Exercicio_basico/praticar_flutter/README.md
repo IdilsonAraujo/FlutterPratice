@@ -1,16 +1,23 @@
 # praticar_flutter
 
-A new Flutter project.
+Aprender na prática durante 30 dias sobre o flutter
 
-## Getting Started
+#30DaysOfFlutter
+Objectivos:
 
-This project is a starting point for a Flutter application.
+Dominio dos fundamentos da linguagem e do ecossistema Flutter
+Atingir um nivel avancado em FLutter development
+Tasks
 
-A few resources to get you started if this is your first Flutter project:
+Criar repositorio publico para #30DaysOfFlutter
+Diariamente trabalhar nos tópicos seguintes:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1 - Reproduzir playlist de Widget of the week no repositorio (commits diarios)
+https://www.youtube.com/playlist?list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG
+2 - Advanced flutter concepts (week challenge)
+https://www.youtube.com/watch?v=Gz0x77Hd1GE&list=PLjxrf2q8roU3ahJVrSgAnPjzkpGmL9Czl
+3 - Dominar (one step at a time) Clean Code, Clean architeture e boas praticas (livetime pratice)
+1 - https://verygood.ventures/blog/scalable-best-practices
+2 - https://khalilstemmler.com/articles/client-side-architecture/introduction/
+3 - https://resocoder.com/flutter-clean-architecture-tdd/
+4 - https://blog.gskinner.com/archives/2020/02/flutter-widgetview-a-simple-separation-of-layout-and-logic.html
